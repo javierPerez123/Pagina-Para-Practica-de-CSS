@@ -1,0 +1,11 @@
+@media screen and (min-width:0) {
+    .rodapie__iconImg {
+        width: 2rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .rodapie__iconImg {
+        width: 4.125rem;
+    }
+}

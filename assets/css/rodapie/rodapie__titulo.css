@@ -1,0 +1,20 @@
+.rodapie__titulo {
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    color: #8C8888;
+
+}
+
+@media screen and (min-width:0) {
+    .rodapie__titulo {
+        font-size: 0.75rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .rodapie__titulo {
+        font-size: 1.25rem;
+    }
+}

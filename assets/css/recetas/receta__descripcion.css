@@ -1,0 +1,9 @@
+.receta__descripcion {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 1.1875rem;
+    line-height: 1.5rem;
+    text-align: justify;
+    color: #000000;
+
+}

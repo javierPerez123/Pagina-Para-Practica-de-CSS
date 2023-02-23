@@ -1,0 +1,19 @@
+.sobre__parrafo {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    color: #8C8888;
+}
+
+@media screen and (min-width:0) {
+    .sobre__parrafo {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .sobre__parrafo {
+        font-size: 1.75rem;
+    }
+}

@@ -1,0 +1,11 @@
+.quienes__descripcion {
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.75rem;
+    line-height: 2.0625rem;
+    color: #8C8888;
+    margin-top: 0;
+    margin-bottom: 3.0625rem;
+}
